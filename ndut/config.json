@@ -1,0 +1,5 @@
+{
+  "alias": "dbj",
+  "model": {},
+  "dependency": ["ndut-db"]
+}

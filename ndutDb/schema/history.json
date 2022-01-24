@@ -1,0 +1,35 @@
+{
+  "properties": {
+    "model": {
+      "type": "String",
+      "length": 50,
+      "required": true,
+      "index": true
+    },
+    "recordId": {
+      "type": "String",
+      "length": 50,
+      "required": true,
+      "index": true
+    },
+    "state": {
+      "type": "String",
+      "length": 50,
+      "required": true,
+      "index": true
+    },
+    "isNew": {
+      "type": "Boolean",
+      "index": true
+    },
+    "details": {
+      "type": "json",
+      "required": true
+    }
+  },
+  "feature": {
+    "createdAt": true,
+    "updatedAt": true,
+    "deletedAt": true
+  }
+}

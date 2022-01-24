@@ -1,0 +1,26 @@
+{
+  "name": "ndut-db-journal",
+  "version": "0.5.1",
+  "description": "Dataset Journaling for Ndut Framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/ndut-db-journal.git"
+  },
+  "keywords": [
+    "ndut",
+    "db",
+    "dataset",
+    "database",
+    "journal",
+    "fastify"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/ndut-db-journal/issues"
+  },
+  "homepage": "https://github.com/ardhi/ndut-db-journal#readme"
+}
