@@ -15,7 +15,6 @@
     "state": {
       "type": "String",
       "length": 50,
-      "required": true,
       "index": true
     },
     "isNew": {
@@ -30,6 +29,8 @@
   "feature": {
     "createdAt": true,
     "updatedAt": true,
-    "deletedAt": true
+    "deletedAt": true,
+    "ndutAuthUserId": true,
+    "ndutSiteSiteId": true
   }
 }

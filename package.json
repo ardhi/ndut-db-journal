@@ -1,6 +1,6 @@
 {
   "name": "ndut-db-journal",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Dataset Journaling for Ndut Framework",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
