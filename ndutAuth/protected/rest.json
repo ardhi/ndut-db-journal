@@ -1,0 +1,4 @@
+{
+  "/history": ["GET"],
+  "/manage/:id": ["GET"]
+}

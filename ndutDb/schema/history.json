@@ -17,8 +17,9 @@
       "length": 50,
       "index": true
     },
-    "isNew": {
-      "type": "Boolean",
+    "action": {
+      "type": "String",
+      "length": 20,
       "index": true
     },
     "details": {
@@ -26,11 +27,5 @@
       "required": true
     }
   },
-  "feature": {
-    "createdAt": true,
-    "updatedAt": true,
-    "deletedAt": true,
-    "ndutAuthUserId": true,
-    "ndutSiteSiteId": true
-  }
+  "feature": ["createdAt", "updatedAt", "ndutAuthUserId", "ndutSiteSiteId"]
 }

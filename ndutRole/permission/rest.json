@@ -1,0 +1,6 @@
+[
+  {
+    "path": ["/history", "/history/:id"],
+    "method": ["read"]
+  }
+]
